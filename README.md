@@ -1,1 +1,0 @@
-# high-five_naming-server
