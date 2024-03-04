@@ -1,1 +1,1 @@
-# high-five_naming-server
+# high-five_service-registry

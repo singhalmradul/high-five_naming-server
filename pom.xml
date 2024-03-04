@@ -6,14 +6,14 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.2.2</version>
+		<version>3.2.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.singhalmradul</groupId>
-	<artifactId>naming-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>naming-server</name>
-	<description>high-five naming-server</description>
+	<artifactId>service-registry</artifactId>
+	<version>0.1.0</version>
+	<name>service-registry</name>
+	<description>high-five service-registry</description>
 	<properties>
 		<java.version>21</java.version>
 		<spring-cloud.version>2023.0.0</spring-cloud.version>
