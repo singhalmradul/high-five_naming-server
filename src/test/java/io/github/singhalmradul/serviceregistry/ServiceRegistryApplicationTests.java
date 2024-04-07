@@ -1,10 +1,10 @@
-package io.github.singhalmradul.namingserver;
+package io.github.singhalmradul.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NamingServerApplicationTests {
+class ServiceRegistryApplicationTests {
 
 	@Test
 	void contextLoads() {

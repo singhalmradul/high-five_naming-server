@@ -1,4 +1,4 @@
-package io.github.singhalmradul.namingserver;
+package io.github.singhalmradul.serviceregistry;
 
 import static org.springframework.boot.SpringApplication.run;
 
@@ -7,11 +7,11 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @EnableEurekaServer
 @SpringBootApplication
-public class NamingServerApplication {
+public class ServiceRegistryApplication {
 
 	public static void main(String[] args) {
-		
-		run(NamingServerApplication.class, args);
+
+		run(ServiceRegistryApplication.class, args);
 	}
 
 }
